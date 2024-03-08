@@ -11,7 +11,7 @@ const Hotels = () => {
   return (
     <div>
       <div className="mb-4">
-        <label htmlFor="ratingFilter" className="mr-2">
+        <label htmlFor="ratingFilter" className="mr-2 ">
           Filter by Rating:
         </label>
         <select
