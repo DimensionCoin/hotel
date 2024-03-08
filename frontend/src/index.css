@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Adjusting the button background and text color */
+.wallet-adapter-button-trigger {
+  background-color: #333 !important; /* Off-black background */
+  color: #F5F5F5 !important; /* Off-white text color for better contrast */
+  padding: 1px 8px !important; /* Adjust padding as needed */
+  font-size: 0.75rem;
+}
+
+/* Adjusting the button hover state */
+.wallet-adapter-button-trigger:hover {
+  background-color: #494949 !important; /* Off-white background on hover */
+  color: #dfdfdf !important; /* Off-black text color for contrast on hover */
+}
+
+/* Adjusting the text size inside the button for a smaller appearance */
+.wallet-adapter-button-trigger > span {
+  font-size: 0.55rem !important; /* Smaller text size */
+}
+
+/* Adjusting the logo size inside the button */
+.wallet-adapter-button-trigger img,
+.wallet-adapter-button-trigger svg {
+  width: 16px !important; /* Smaller logo size */
+  height: auto !important;
+}
