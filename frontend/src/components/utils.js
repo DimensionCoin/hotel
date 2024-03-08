@@ -5,7 +5,7 @@
      description: "Wonderful Hotels",
      location: "canada",
      rating: 5,
-     image: "../assets/",
+     image: "../hotel1.png",
    },
    {
      id: 2,
@@ -13,7 +13,7 @@
      description: "Wonderful Hotels",
      location: "canada",
      rating: 4,
-     image: "../assets/",
+     image: "../hotel2.png",
    },
    {
      id: 3,
@@ -21,7 +21,7 @@
      description: "Wonderful Hotels",
      location: "canada",
      rating: 3,
-     image: "../assets/",
+     image: "../hotel3.png",
    },
    {
      id: 4,
@@ -29,7 +29,7 @@
      description: "Wonderful Hotels",
      location: "canada",
      rating: 4,
-     image: "../assets/",
+     image: "../hotel4.png",
    },
    {
      id: 5,
@@ -37,7 +37,7 @@
      description: "Wonderful Hotels",
      location: "canada",
      rating: 2,
-     image: "../assets/",
+     image: "../hotel5.png",
    },
  ];
 

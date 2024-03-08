@@ -35,7 +35,7 @@ const Hotels = () => {
             <img
               src={hotel.image}
               alt={hotel.name}
-              className="w-full h-64 object-cover"
+              className="w-full h-64 object-cover rounded-lg"
             />
             <div className="p-4">
               <h3 className="font-bold text-xl mb-2">{hotel.name}</h3>
